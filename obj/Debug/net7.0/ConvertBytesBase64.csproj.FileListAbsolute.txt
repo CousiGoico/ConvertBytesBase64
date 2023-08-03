@@ -1,0 +1,15 @@
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.csproj.AssemblyReference.cache
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.GeneratedMSBuildEditorConfig.editorconfig
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.AssemblyInfoInputs.cache
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.AssemblyInfo.cs
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.csproj.CoreCompileInputs.cache
+L:\ConvertBytesBase64\bin\Debug\net7.0\ConvertBytesBase64.exe
+l:\ConvertBytesBase64\bin\Debug\net7.0\ConvertBytesBase64.deps.json
+l:\ConvertBytesBase64\bin\Debug\net7.0\ConvertBytesBase64.runtimeconfig.json
+L:\ConvertBytesBase64\bin\Debug\net7.0\ConvertBytesBase64.dll
+L:\ConvertBytesBase64\bin\Debug\net7.0\ConvertBytesBase64.pdb
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.dll
+L:\ConvertBytesBase64\obj\Debug\net7.0\refint\ConvertBytesBase64.dll
+L:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.pdb
+l:\ConvertBytesBase64\obj\Debug\net7.0\ConvertBytesBase64.genruntimeconfig.cache
+l:\ConvertBytesBase64\obj\Debug\net7.0\ref\ConvertBytesBase64.dll
